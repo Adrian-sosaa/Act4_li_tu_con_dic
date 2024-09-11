@@ -13,9 +13,11 @@ Act 4 trabajando con listas, tuplas,conjuntos y diccionarios
 
 ## Ejemplo diccionario
 -codigo
--![image](https://github.com/user-attachments/assets/1374dfa8-a2fa-4352-b3e5-ce69622edf88)
+-![image](https://github.com/user-attachments/assets/e9cf933f-326a-4766-aa38-4f3234abbee3)
+
 -resultado
--![image](https://github.com/user-attachments/assets/ddd3193d-e4e2-4c01-bb8b-e090d287a384)
+-![image](https://github.com/user-attachments/assets/ed26770e-37a8-465a-b27e-104d3ff2fb35)
+
 
 
 
